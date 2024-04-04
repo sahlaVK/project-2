@@ -1,0 +1,207 @@
+#sec1{
+    background-image: url(Buffalo-Steaks-on-grill.jpg);
+    background-size: cover;
+    /* text-align: center; */
+    background-repeat: no-repeat;
+    background-color: aliceblue;
+    
+    
+}
+.inbox1lg{
+    padding: 100px 0px;
+    text-align: center;
+    color: aliceblue;
+}
+.bi-cart-fill{
+    color: rgb(160, 160, 72);
+    font-size: 25px;
+}
+.b2{
+    color: white;
+}
+#sec2{
+    background-image: url(black.avif);
+    background-size: cover;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.inbox2lg{
+    padding: 100px 0px;
+    text-align: center;
+}
+#sec3{
+    background-image: url(HO3.jpg);
+    background-size: cover;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.inbox3lg{
+    padding:100px 0px ;
+    text-align:center ;
+    color: aliceblue;
+    height: 600px;
+    
+}
+#sec4{
+    background-image: url(beef2.jpg);
+    background-size: cover;
+    background-color: aliceblue;
+}
+.inbox4lg{
+    padding: 100px 0px;
+    text-align: center;
+    color: aliceblue;
+    height: 400px;
+
+    }
+ #sec5{
+    background-image:url(whit.jpg);
+    background-size:cover ;
+    color:black;
+    
+ }  
+ .inbox5lg{
+    padding: 100px 0px;
+    text-align: center;
+ } 
+ #sec6{
+    background-image: url(bottil.avif);
+    background-size: cover;
+    color:aliceblue;
+    
+ }
+ .inbox6lg{
+    padding:100px 0px ;
+    text-align: center;
+    height: 500px;
+    font-size: 25px;
+    
+ }
+ #sec7{
+    background-image: url(couple.jpg);
+    background-size: cover;
+    color: wheat;
+
+ }
+ .inbox7lg{
+    padding:100px 0px ;
+    text-align: center;
+    height: 500px;
+ }
+#sec8{
+    background-image: url(cute-family-playing-summer-field.jpg);
+    background-size: cover;
+    color: white;
+    background-color: aqua;
+    
+    
+}
+.inboxlg8{
+    padding:100px 0px ;
+    text-align: center;
+    height: 500px;
+    
+    
+}
+
+.trans{
+    background-color: rgba(255, 166, 0, 0.671);
+}
+#sec9{
+    background-image: url(blk.jpg);
+    background-size: cover;
+    color: rgba(17, 16, 16, 0.616);
+    position: relative;
+}
+.trans{
+    background-color: rgba(0, 0, 0, 0.877);
+   
+}
+.inboxlg9{
+    padding: 100px 0px;
+    text-align: center;
+    min-height:200px ;
+    color: white;
+}
+.trans{
+    background-color: rgba(0, 0, 0, 0.397);
+   
+}
+
+#sec10{
+   background-color:rgb(39, 37, 37);
+ 
+}
+.inbox1{
+    padding: 70px 0px;
+    background-image:url(black.jpg) ;
+    background-size: 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    color: white;
+}
+.inbox2{
+    
+    min-height: 100px;
+    color: white;
+
+}
+.inbox3{
+    color: white;
+    min-height: 50px;
+}
+.inbox4{
+    color: white;
+    height: 15px;
+}
+
+.list1{
+    margin: 0;
+    padding: 0;
+}
+
+.bi1{
+    color: orangered;
+}
+.list2{
+    margin: 0;
+    padding: 0;
+}
+#sec11{
+    background-color: black;
+
+}
+.m{
+    text-align: center;
+    
+}
+.inbox5{
+    margin-top: 20px;
+}
+.lo{
+    font-size: 25px;
+    color: orangered;
+    margin: 5px;
+    
+
+}
+.inbox6{
+    margin-top:20px ;
+    text-align: center;
+}
+@media(max-width:768px){
+    #sec10{
+        overflow: hidden;
+        height: 800px;
+    }  
+ #sec10 .container .row div{
+   text-align: center;
+ }
+ #sec10 .container .row div a{
+    text-decoration: underline;
+    color: white;
+ }
+}
+
